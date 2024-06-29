@@ -1,0 +1,86 @@
+Date : 2020-08-19 16:26:33
+Directory : /home/mohamed/Bureau/Programming/reactjs/food
+Total : 48 files,  21352 codes, 130 comments, 402 blanks, all 21884 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          4 |     18,983 |          0 |          3 |     18,986 |
+| JavaScript |         40 |      1,911 |        106 |        294 |      2,311 |
+| CSS        |          2 |        387 |          1 |         71 |        459 |
+| Markdown   |          1 |         37 |          0 |         32 |         69 |
+| HTML       |          1 |         34 |         23 |          2 |         59 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                  | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                     |         48 |     21,352 |        130 |        402 |     21,884 |
+| public                                                                                |          2 |         59 |         23 |          3 |         85 |
+| src                                                                                   |         43 |      2,299 |        107 |        365 |      2,771 |
+| src/components                                                                        |         17 |        791 |          2 |        106 |        899 |
+| src/components/cart                                                                   |          2 |         84 |          0 |         17 |        101 |
+| src/components/stripe                                                                 |          1 |        192 |          1 |         16 |        209 |
+| src/contexts                                                                          |          2 |         39 |          9 |          8 |         56 |
+| src/lotties                                                                           |          1 |          1 |          0 |          0 |          1 |
+| src/pages                                                                             |         10 |        736 |          1 |        104 |        841 |
+| src/pages/purchase                                                                    |          5 |        463 |          0 |         55 |        518 |
+| src/services                                                                          |          2 |         17 |          0 |          4 |         21 |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                              | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| /home/mohamed/Bureau/Programming/reactjs/food/README.md                               | Markdown   |         37 |          0 |         32 |         69 |
+| /home/mohamed/Bureau/Programming/reactjs/food/package-lock.json                       | JSON       |     18,906 |          0 |          1 |     18,907 |
+| /home/mohamed/Bureau/Programming/reactjs/food/package.json                            | JSON       |         51 |          0 |          1 |         52 |
+| /home/mohamed/Bureau/Programming/reactjs/food/public/index.html                       | HTML       |         34 |         23 |          2 |         59 |
+| /home/mohamed/Bureau/Programming/reactjs/food/public/manifest.json                    | JSON       |         25 |          0 |          1 |         26 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/App.css                             | CSS        |        375 |          1 |         69 |        445 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/App.js                              | JavaScript |         53 |          1 |          7 |         61 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/App.test.js                         | JavaScript |          8 |          0 |          2 |         10 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/cart.js                             | JavaScript |        123 |         54 |         32 |        209 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/CheckoutStepBar.js       | JavaScript |         36 |          0 |          8 |         44 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/CityHeader.js            | JavaScript |         74 |          0 |          6 |         80 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/Header.js                | JavaScript |         19 |          0 |          4 |         23 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/HeaderLand.js            | JavaScript |         12 |          0 |          3 |         15 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/HeaderNavbar.js          | JavaScript |         38 |          0 |          5 |         43 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/ModalAlert.js            | JavaScript |         27 |          0 |          3 |         30 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/ModalLoader.js           | JavaScript |         23 |          0 |          3 |         26 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/ModalSuccessPay.js       | JavaScript |         26 |          0 |          3 |         29 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/ModalTime.js             | JavaScript |         31 |          0 |          3 |         34 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/PaymentBank.js           | JavaScript |         33 |          0 |          5 |         38 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/PaymentCash.js           | JavaScript |         18 |          0 |          5 |         23 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/PaymentDetails.js        | JavaScript |         94 |          0 |         12 |        106 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/ProductCard.js           | JavaScript |         51 |          0 |          8 |         59 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/ProductModal.js          | JavaScript |         33 |          1 |          5 |         39 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/cart/AddCartButton.js    | JavaScript |         64 |          0 |         11 |         75 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/cart/RemoveCartButton.js | JavaScript |         20 |          0 |          6 |         26 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/components/stripe/StripeForm.js     | JavaScript |        192 |          1 |         16 |        209 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/constants.js                        | JavaScript |          2 |          0 |          2 |          4 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/contexts/CartContext.js             | JavaScript |         10 |          8 |          4 |         22 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/contexts/PurchaseContext.js         | JavaScript |         29 |          1 |          4 |         34 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/hours.js                            | JavaScript |          7 |          1 |          4 |         12 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/index.css                           | CSS        |         12 |          0 |          2 |         14 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/index.js                            | JavaScript |         12 |          3 |          3 |         18 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/lotties/pay.json                    | JSON       |          1 |          0 |          0 |          1 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/AddressPage.js                | JavaScript |         98 |          0 |         17 |        115 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/Contact.js                    | JavaScript |          5 |          0 |          3 |          8 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/HomePage.js                   | JavaScript |         13 |          0 |          5 |         18 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/HowTo.js                      | JavaScript |          5 |          0 |          3 |          8 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/ProductsPage.js               | JavaScript |        152 |          1 |         21 |        174 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/purchase/CartPage.js          | JavaScript |        104 |          0 |         13 |        117 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/purchase/CheckoutPage.js      | JavaScript |        197 |          0 |         20 |        217 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/purchase/PaymentPage.js       | JavaScript |         85 |          0 |          7 |         92 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/purchase/PurchaseSwitcher.js  | JavaScript |         20 |          0 |          5 |         25 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/pages/purchase/SuccessPage.js       | JavaScript |         57 |          0 |         10 |         67 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/serviceWorker.js                    | JavaScript |         98 |         31 |         13 |        142 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/services/deliveryService.js         | JavaScript |         13 |          0 |          2 |         15 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/services/productService.js          | JavaScript |          4 |          0 |          2 |          6 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/setupTests.js                       | JavaScript |          1 |          4 |          1 |          6 |
+| /home/mohamed/Bureau/Programming/reactjs/food/src/utils.js                            | JavaScript |         24 |          0 |          8 |         32 |
+| Total                                                                                 |            |     21,352 |        130 |        402 |     21,884 |
++---------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
